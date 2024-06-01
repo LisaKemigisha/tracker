@@ -1,5 +1,5 @@
 SECRET_KEY = 'XXX'
 
-DEBUG = DEBUG = True  # or False, depending on your requirement
+DEBUG = True  # or False, depending on your requirement
 
 ALLOWED_HOSTS = ["*"]
